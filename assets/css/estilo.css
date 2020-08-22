@@ -1,0 +1,219 @@
+body {
+  text-align: center;
+  color: #000f08;
+  margin: 0;
+  font-family: 'Open Sans', sans-serif;
+}
+
+body * {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+h1 {
+  font-weight: 800;
+  font-size: 3.75em;
+  margin-bottom: 0.25em;
+}
+
+.titulo_eventos {
+  font-size: 1.225em;
+}
+
+h3 {
+  font-size: 2em;
+}
+
+h4 {
+  font-size: 1.75em;
+}
+
+h5 {
+  font-size: 1.25em;
+}
+
+.subtitulo, h4, h5 {
+  font-weight: 400;
+}
+
+.oscuro {
+  background: #000f08;
+  color: #ffffff;
+}
+
+#ubicado h2 {
+  margin: 0.75em auto;
+}
+
+.oscuro a {
+  color: #ffffff;
+  text-decoration: none;
+}
+
+.we-work {
+  width: 32%;
+  height: 25%;
+}
+
+.sweet-brown {
+  text-align: left;
+  background: #a4452c;
+  color: #ffffff;
+  padding: 50px;
+  white-space: nowrap;
+}
+
+.hero-section {
+  text-align: right;
+  background-image: url("../img/bg-hero.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #ffffff;
+  text-shadow: 0.125em 0.25em 0.125em #707070;
+  padding: 5.125rem 3.125rem;
+  padding-top: 5.125rem;
+}
+
+.icono {
+  width: 2rem;
+}
+
+.icono svg {
+  fill: #ffffff;
+}
+
+.sweet-brown h3, .sweet-brown h5 {
+  margin-bottom: 0.5em;
+}
+
+#eventos h2 {
+  margin-bottom: 1em;
+}
+
+.evento h3 {
+  margin: 1em auto;
+  vertical-align: middle;
+  white-space: normal;
+
+
+}
+
+footer {
+  margin-top: 4.5rem;
+}
+
+.sec-mar {
+  margin-top: 4.5rem;
+}
+
+footer {
+  padding: 3.125rem;
+  letter-spacing: 0.099em;
+}
+
+.charla-texto, .charla-speaker, .evento {
+  display: inline-block;
+}
+
+.centrado {
+  width: 75%;
+  margin: 0 auto;
+}
+
+.charlas-speaker {
+  width: 25%;
+  vertical-align: middle;
+}
+
+.charla-texto {
+  width: 72.5%;
+  vertical-align: middle;
+  margin-left: 2.5%;
+  white-space: normal;
+}
+
+.evento {
+  width: 30%;
+  vertical-align: middle;
+  font-size: 0.80em;
+}
+
+.ancho-img {
+  width: 70%;
+  vertical-align: middle;
+  white-space: normal;
+}
+
+#eventos a {
+  text-decoration: none;
+  color: #000f08;
+}
+
+nav {
+  text-align: left;
+  padding: 1.25rem 4rem;
+  position: fixed;
+  width: 100vw;
+}
+
+nav ul {
+  list-style-type: none;
+  white-space: nowrap;
+}
+
+nav ul li {
+  display: inline-block;
+  margin: 0 1em;
+  vertical-align: middle;
+}
+
+footer i {
+  margin: 0 0.50em 0.5em 0.25em;
+}
+
+.copy {
+  margin-top: 1rem;
+}
+
+/*aqui comienza el codigo complementario para simposio vegan*/
+.titulo {
+  margin-top: 18%;
+  margin-right: 30%;
+  margin-bottom: 10%;
+  display: inline-block;
+  font-weight: 700;
+  font-size: 2.5em;
+}
+
+.nombre {
+  width: 71.5%;
+  vertical-align: middle;
+  text-align: justify;
+  margin: 1em 0em;
+  white-space: normal;
+  display: inline-block;
+  font-weight: 700;
+  font-size: 2.5em;
+}
+
+.ancho-img {
+  width: 75%;
+  vertical-align: middle;
+  border-radius: 2%;
+}
+
+.p-texto {
+  width: 75%;
+  vertical-align: middle;
+  text-align: justify;
+  margin-top: 1em;
+  white-space: normal;
+  display: inline-block;
+  font-weight: 400;
+  font-size: 1.1em;
+}
+
+.texto-centrado {
+  margin-top: 2em;
+}
